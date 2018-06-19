@@ -4,3 +4,4 @@ Git hasa mutable index called stage.
 This is my first time to use git tool.
 
 Git tracks changes of files.
+Modify and practice branch command.
