@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+   //vector easy operation example
    vector<string> myStr;
    myStr.push_back("China");
    myStr.push_back("English");
@@ -12,6 +13,9 @@ int main()
    {
 	cout << *ite << " ";
    }
-   cout << endl << "hello world!" << endl;
+   //add some greeting words
+   cout << "hello world!" << endl;
+   cout << "How old are you?" << endl;
+   cout << " What is your name?" << endl;
    return 0;
 }
